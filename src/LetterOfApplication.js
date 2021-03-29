@@ -4,12 +4,10 @@ function LetterOfApplication() {
   return (
     <div className="LetterOfApplication">
         <div className="content">
-          <p>Dear Sirs,</p>
-          <p>My name is Christof Mayer and I would like to express my interest in applying for the position as a Frontend Developer.
-I’ve always dreamed of becoming a Software Developer and I believe that a position in the field of Frontend Development with React.js would set me miles ahead to reaching my goal.
-Please also note the documents I sent to office@goodbag.io.
+          <p>Lorem ipsum,</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
 </p>
-<p>kind regards, Christof</p>
+<p>, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
         </div>
     </div>
   );
